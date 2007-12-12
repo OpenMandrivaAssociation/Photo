@@ -1,7 +1,7 @@
 Name:               Photo
 Summary:            A Zope product to manage images better
 Version: 1.2.3
-Release: 4mdk
+Release: %mkrel 4
 Group:              Development/Python
 Requires:           zope
 License:            GPL
