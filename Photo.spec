@@ -5,7 +5,7 @@ Release: %mkrel 9
 Group:              Development/Python
 Requires:           zope
 License:            GPL
-URL:                http://www.zope.org
+URL:                https://www.zope.org
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
 Buildarch:	noarch
 
