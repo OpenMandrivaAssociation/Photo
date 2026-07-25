@@ -1,7 +1,7 @@
 Name:               Photo
 Summary:            A Zope product to manage images better
 Version: 1.2.3
-Release: %mkrel 9
+Release: 10
 Group:              Development/Python
 Requires:           zope
 License:            GPL
@@ -86,7 +86,7 @@ rm -rf $RPM_BUILD_ROOT
     - import Photo
 
 
-* Fri May 13 2005 Nicolas Lécureuil <neoclust@mandriva.org> 1.2.3-4mdk
+* Fri May 13 2005 Nicolas Lï¿½cureuil <neoclust@mandriva.org> 1.2.3-4mdk
 - Rebuild
 
 * Wed Sep 05 2003 Sebastien Robin <seb@nexedi.com> 1.2.3-3mdk
